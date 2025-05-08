@@ -21,7 +21,7 @@ body {
 
 .indented-heading {
   background-color: hsl(45deg, 100%, 50%);
-  border-block-end: 1rem ridge hsl(45deg, 100%, 50%);
+  border-block-end: 0.5rem solid hsl(45deg, 100%, 40%);
   margin: -0.5rem 0 0 -1.5rem;
   padding: 1rem 2rem 0.5rem 2rem;
   inline-size: fit-content;
@@ -29,7 +29,7 @@ body {
 
 header .max-width-wrapper,
 .card {
-  border-block-end: 1rem ridge hsl(0deg, 0%, 100%);
+  border-block-end: 0.5rem solid hsl(0deg, 0%, 60%);
   background-color: hsl(0deg, 0%, 100%);
 }
 
