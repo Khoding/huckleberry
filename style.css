@@ -15,7 +15,7 @@ body {
   padding: 1rem;
 
   strong {
-    color: green;
+    color: hsl(160deg, 100%, 30%);
   }
 }
 
