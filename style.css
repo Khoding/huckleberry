@@ -29,7 +29,7 @@ body {
 
 header .max-width-wrapper,
 .card {
-  border-block-end: 1rem hsl(0deg, 0%, 100%);
+  border-block-end: 1rem ridge hsl(0deg, 0%, 100%);
   background-color: hsl(0deg, 0%, 100%);
 }
 
